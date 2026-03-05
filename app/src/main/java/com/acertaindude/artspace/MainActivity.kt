@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
 fun ArtSpaceAppLayout() {
     var overAllCounter by remember { mutableIntStateOf(1) }
 
-    val nextImageChange = when (overAllCounter) {
+    val nextImage= when (overAllCounter) {
         1 -> R.drawable.allegory_of_love_1520
         2 -> R.drawable.concert_of_birds_1983_1660_1670
         3 -> R.drawable.free_images_national_gallery_of_art_3
@@ -97,7 +97,7 @@ fun ArtSpaceAppLayout() {
             .wrapContentHeight(Alignment.CenterVertically)
     ) {
         CustomSurfaceWithImage(
-            imageRes = nextImageChange,
+            imageRes = nextImage,
             shadowElevation = 12.dp,
             shape = RoundedCornerShape(12.dp),
             modifier = Modifier
