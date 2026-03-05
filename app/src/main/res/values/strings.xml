@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="allegory_of_love">Allegory of Love\n1520</string>
+    <string name="concert_of_birds_1983_1660_1670">Concert of Birds\n1660–1670</string>
+    <string name="free_images_national_gallery_of_art_3">Free Images from the National Gallery of Art\n(No specific date)</string>
+    <string name="free_images_national_gallery_of_art_8">Free Images from the National Gallery of Art\n(No specific date)</string>
+    <string name="harbor_at_sunset_late17century">Harbor at Sunset\nLate 17th Century</string>
+    <string name="madonna_and_child_on_a_curved_throne_1260_1280">Madonna and Child on a Curved Throne\n1260–1280</string>
+    <string name="old_woman_plucking_a_fowl_1650_1655">Old Woman Plucking a Fowl\n1650–1655</string>
+    <string name="pexels_jarosz_1727658">Image by Jarosz (Pexels ID: 1727658)\n(No specific date)</string>
+    <string name="portrait_of_a_donor_1470_1475">Portrait of a Donor\n1470–1475</string>
+    <string name="portrait_of_a_woman_second_century">Portrait of a Woman\n2nd Century</string>
+    <string name="portrait_of_a_young_lady_1500">Portrait of a Young Lady\n1500</string>
+    <string name="the_card_players_1550">The Card Players\n1550</string>
+    <string name="the_flight_into_egypt_150_1575">The Flight into Egypt\n150–1575</string>
+    <string name="the_herdsman_17or18cent">The Herdsman\n17th or 18th Century</string>
+    <string name="the_temptation_of_saint_anthony_1530">The Temptation of Saint Anthony\n1530</string>
+
+</resources>
